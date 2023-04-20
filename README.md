@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently building Crypto Trading & Exchange Platform<br>😎 I'm a highly motivated and results-driven software engineer with 8+ years of experience<br>🌱 I’m currently learning & enhancing my DevSecOps skills<br>💬 Ask me about anything related to technology<br>⚡ Fun fact: I'm a 🐶 lover at heart and enjoy spending time with furry friends
+🔭 I’m currently building Crypto Trading & Exchange Platform<br>😎 I'm a highly motivated and results-driven software engineer with 8+ years of experience<br>🌱 I’m currently learning & enhancing my DevSecOps skills<br>💬 Ask me about anything related to technology<br>⚡ Fun fact: I'm a 🐶 lover at heart and enjoy spending time with furry friends<br>🍽️ -> 😴 -> 👨🏽‍💻 -> 🥳 -> 🔁
 
 
 ## 🌐 Socials:
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="256px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
