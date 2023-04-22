@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently building Crypto Trading & Exchange Platform<br>😎 I'm a highly motivated and results-driven software engineer with 8+ years of experience<br>🌱 I’m currently learning & enhancing my DevSecOps skills<br>💬 Ask me about anything related to technology<br>⚡ Fun fact: I'm a 🐶 lover at heart and enjoy spending time with furry friends<br>🍽️ -> 😴 -> 👨🏽‍💻 -> 🥳 -> 🔁
 
+# 🎓 Certifications:
+[![AWS](https://images.credly.com/size/60x60/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/c405351a-eebc-407e-89e8-15a0ab16b91d) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keyurkd) 
