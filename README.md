@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="400px"/>
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
